@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to 초파쌤 GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/parisrain75/mychatbot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+챗봇 깃허브입니다.
 
 ### Markdown
 
